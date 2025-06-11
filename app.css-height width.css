@@ -1,0 +1,11 @@
+a {
+    font-size: 16px;
+}
+img {
+    width: 100;
+}
+div {
+    width: 300pix;
+    height: 200px;
+    background-color: blue;
+}
