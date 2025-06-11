@@ -1,0 +1,11 @@
+p::first-letter {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700;
+} 
+
+p::first-line {
+    text-transform: uppercase;
+    font-size: 30px;
+    font-weight: 700
+}
